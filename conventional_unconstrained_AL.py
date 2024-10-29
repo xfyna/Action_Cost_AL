@@ -73,7 +73,7 @@ if func_name == 'Parabola':
     
 # and now a nonconvex surface, townsend function (https://en.wikipedia.org/w/index.php?title=Test_functions_for_optimization&oldid=787014841)
 elif func_name == 'Townsend':
-    grid_bounds = [(-1, 1), (-1, 1)]
+    grid_bounds = [(-2.5, 2.5), (-2.5, 2.5)]
     grid_size = 21
     x_1 = np.linspace(grid_bounds[0][0], grid_bounds[0][1], grid_size)
     x_2 = x_1
