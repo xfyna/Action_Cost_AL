@@ -1,5 +1,5 @@
 # Action_Cost_AL
-Cost-Aware Query Policies in Active Learning for Efficient Autonomous Robotic Exploration
+**Cost-Aware Query Policies in Active Learning for Efficient Autonomous Robotic Exploration**
 
 Distance-Constrained AL Trials
 --> distance-constrained_AL.py
